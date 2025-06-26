@@ -7,13 +7,9 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/anujky576"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
-
   <a href="mailto:anujky576@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png"/></a>
-
   <a href="https://instagram.com/anuj_ky576"><img src="https://img.icons8.com/fluency/48/instagram-new.png"/></a>
-
   <a href="https://leetcode.com/anujky576/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-leetcode-a-platform-for-preparing-for-coding-interviews-logo-color-tal-revivo.png"/></a>
-
   <a href="https://anujportfolio-drab.vercel.app/">
   <img src="https://img.icons8.com/color/48/web.png" alt="Portfolio Website"/>
 </a>
