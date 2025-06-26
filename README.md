@@ -9,10 +9,11 @@
   <a href="https://linkedin.com/in/anujky576"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
   <a href="mailto:anujky576@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png"/></a>
   <a href="https://instagram.com/anuj_ky576"><img src="https://img.icons8.com/fluency/48/instagram-new.png"/></a>
-  <a href="https://leetcode.com/anujky576/"><img src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000"/></a>
+  <a href="https://leetcode.com/anujky576/"><img src="https://img.icons8.com/?size=48&id=wDGo581Ea5Nf&format=png&color=000000" width="48" height="48" alt="LeetCode"/></a>
   <a href="https://anujportfolio-drab.vercel.app/">
   <img src="https://img.icons8.com/color/48/web.png" alt="Portfolio Website"/>
 </a>
+
 </p>
 
 ---
