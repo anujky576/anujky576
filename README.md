@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Anuj</h1>
-<p align="center">Web Developer | Python Developer | DSA Enthusiast</p>
+<p align="center">Web Developer | Python Developer | DSA </p>
 
 ---
 
