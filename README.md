@@ -31,15 +31,15 @@
 
 ---
 
-## 🏆 GitHub Stats
+<!-- ## 🏆 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" width="45%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" width="45%"/>
-</p>
+</p> -->
 
 ---
 
-## 💖 Support Me
+<!-- ## 💖 Support Me -->
 
 <!-- <a href="https://ko-fi.com/YOUR_KOFI_ID"><img src="https://img.shields.io/badge/Support_me_on_Ko--fi-F16061?style=for-the-badge&logo=kofi&logoColor=white" /></a> -->
