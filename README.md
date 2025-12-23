@@ -46,6 +46,8 @@
 <!-- ## 💖 Support Me -->
 
 <!-- <a href="https://ko-fi.com/YOUR_KOFI_ID"><img src="https://img.shields.io/badge/Support_me_on_Ko--fi-F16061?style=for-the-badge&logo=kofi&logoColor=white" /></a> -->
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="MasterHead" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+
 # 💫 About Me:
 🔭 I’m currently a Second year undergraduate student in NSUT, Delhi<br>🌱 I’m currently learning Machine Learning and its applications<br>💬 Ask me about Football<br>
 
