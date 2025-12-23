@@ -47,7 +47,7 @@
 
 <!-- <a href="https://ko-fi.com/YOUR_KOFI_ID"><img src="https://img.shields.io/badge/Support_me_on_Ko--fi-F16061?style=for-the-badge&logo=kofi&logoColor=white" /></a> -->
 # 💫 About Me:
-🔭 I’m currently a Second year undergraduate student in NSUT, Delhi<br>🌱 I’m currently learning Machine Learning and its applications<br>💬 Ask me about Football<br>⚡ Fun fact Bananas are naturally radioactive. They contain potassium, and a small fraction of potassium is the radioactive isotope potassium-40. But don't worry, you'd have to eat a massive number of bananas in a very short amount of time to get a harmful dose of radiation!
+🔭 I’m currently a Second year undergraduate student in NSUT, Delhi<br>🌱 I’m currently learning Machine Learning and its applications<br>💬 Ask me about Football<br>
 
 [![](https://visitcount.itsvg.in/api?id=anujky576&icon=0&color=8)](https://visitcount.itsvg.in)
 
