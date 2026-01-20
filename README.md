@@ -49,7 +49,7 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="MasterHead" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 
 # 💫 About Me:
-🔭 I’m currently a Second year undergraduate student in NSUT, Delhi<br>🌱 I’m currently learning Machine Learning and its applications<br>💬 Ask me about Football<br>
+🔭 I’m currently a Sophomore student in NSUT, Delhi<br>🌱 I’m currently learning Machine Learning and its applications<br>💬 Ask me about Football<br>
 
 [![](https://visitcount.itsvg.in/api?id=anujky576&icon=0&color=8)](https://visitcount.itsvg.in)
 
